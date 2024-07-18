@@ -5,7 +5,7 @@ let workbook;
 let activeSheet;
 
 // Add Share Link to Tableau Public here
-const url = "https://public.tableau.com/shared/KM8X46QS6?:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/Caloriesupplybyfoodgroup/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
