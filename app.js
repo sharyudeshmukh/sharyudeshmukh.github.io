@@ -1,8 +1,10 @@
 console.log('Is this working?');
 
 let viz;
+let workbook;
+let activeSheet;
 
-//Add Share Link to Tableau Public in here
+// Add Share Link to Tableau Public here
 const url = "https://public.tableau.com/shared/KM8X46QS6?:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
@@ -11,17 +13,25 @@ const options = {
     height: 1000,
     width: 1200,
     onFirstInteraction: function() {
-        workbook = viz.getWorkbook();
-        activeSheet = workbook.getActiveSheet();
-        console.log("My dashboard is interactive");
+        try {
+            workbook = viz.getWorkbook();
+            activeSheet = workbook.getActiveSheet();
+            console.log("My dashboard is interactive");
+        } catch (error) {
+            console.error("Error during first interaction:", error);
+        }
     }
 };
 
-//create a function to generate the viz element
+// Create a function to generate the viz element
 function initViz() {
-    console.log('Executing the initViz function!');
-    viz = new tableau.Viz(vizContainer, url, options);
+    try {
+        console.log('Executing the initViz function!');
+        viz = new tableau.Viz(vizContainer, url, options);
+    } catch (error) {
+        console.error("Error initializing Tableau viz:", error);
+    }
 }
 
-// run the initViz function when the page loads
+// Run the initViz function when the page loads
 document.addEventListener("DOMContentLoaded", initViz);
