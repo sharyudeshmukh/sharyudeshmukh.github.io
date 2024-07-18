@@ -11,7 +11,7 @@ const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
     height: 600,
-    width: 1200,
+    width: 800,
     onFirstInteraction: function() {
         try {
             workbook = viz.getWorkbook();
