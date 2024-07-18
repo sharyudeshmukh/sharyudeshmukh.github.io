@@ -9,8 +9,19 @@
     <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
 </head>
 <body>
-    <h1>My Project</h1>
-    <div id="vizContainer" style="width: 100%; height: 600px;"></div>
+    <h1>My Projects</h1>
+    
+    <div>
+        <h2><a href="javascript:void(0);" onclick="loadViz('vizContainer1', 'https://public.tableau.com/views/Caloriesupplybyfoodgroup/Dashboard1')">Dashboard 1</a></h2>
+        <div id="vizContainer1" style="width: 100%; height: 600px;"></div>
+    </div>
+    
+    <div>
+        <h2><a href="javascript:void(0);" onclick="loadViz('vizContainer2', 'https://public.tableau.com/views/AirbnbListingsinNYCAnalysis/Dashboard1')">Dashboard 2</a></h2>
+        <div id="vizContainer2" style="width: 100%; height: 600px;"></div>
+    </div>
+    
     <script src="./app.js"></script>
 </body>
 </html>
+
