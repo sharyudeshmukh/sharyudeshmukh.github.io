@@ -10,8 +10,8 @@ const url = "https://public.tableau.com/views/Caloriesupplybyfoodgroup/Dashboard
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 600,
-    width: 800,
+    height: 1000,
+    width: 1000,
     onFirstInteraction: function() {
         try {
             workbook = viz.getWorkbook();
