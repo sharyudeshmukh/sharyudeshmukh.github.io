@@ -36,5 +36,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Initial call to load the second dashboard when the page loads
 document.addEventListener("DOMContentLoaded", function() {
-    loadViz('vizContainer2', 'https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1');
+    loadViz('vizContainer2', 'https://public.tableau.com/views/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link');
 });
