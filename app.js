@@ -33,4 +33,8 @@ function loadViz(containerId, url) {
 // Initial call to load the first dashboard when the page loads
 document.addEventListener("DOMContentLoaded", function() {
     loadViz('vizContainer1', 'https://public.tableau.com/views/Caloriesupplybyfoodgroup/Dashboard1');
+
+// Initial call to load the second dashboard when the page loads
+document.addEventListener("DOMContentLoaded", function() {
+    loadViz('vizContainer2', 'https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1');
 });
