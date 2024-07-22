@@ -6,26 +6,23 @@
 
 [Share of population that cannot afford a healthy diet](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1)
 <br> <br>
-<img src="images/ShareofPopulation.jpg?raw=true"/>
+<img src="images/ShareofPopulation.png?raw=true"/>
 
 ---
 [Calorie supply by food group](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Caloriesupplybyfoodgroup/Dashboard1)
 <br> <br>
-<img src="images/CalorieSupply.jpg?raw=true"/>
+<img src="images/CalorieSupply.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Links
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Medium Blog](https://medium.com/@sharyu.02ad)
+- [Tableau Public](https://public.tableau.com/app/profile/sharyu.deshmukh/vizzes)
+- [LinkedIn](https://www.linkedin.com/in/sharyu02deshmukh/)
+- [Github](https://github.com/sharyudeshmukh)
 
 ---
-
-
 
 
 ---
