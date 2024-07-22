@@ -12,6 +12,13 @@
 
 ---
 
+[Home Credit Default Risk](https://github.com/sharyudeshmukh/Home-Credit-Default-Risk)
+<br> <br>
+Loan repayment ability is a supervised classification problem. The objective of this project is to use historical loan application data from the Kaggle Home Credit Default Risk dataset to explore effective methods and create classifier to predict either loaner would be able to repay based on statistic method and supervised machine learning.
+
+---
+
+
 ## Links
 
 - [Medium Blog](https://medium.com/@sharyu.02ad)
