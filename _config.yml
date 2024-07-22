@@ -1,14 +1,8 @@
 title: Sharyu Deshmukh # your name (or website title) here
-logo: "/images/MyPicture.png?raw=true" # your photo (or logo) here
+logo: "/images/MyPicture2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Experienced data analytics professional with an inclination and skillset in data management and preprocessing, data cleaning and wrangling, statistical modeling and communicating results through visualizations.
   <br><br>
+
   
-
-
-
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
