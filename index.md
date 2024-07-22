@@ -2,17 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Selected projects in data science, visualization and analytics
 
-[Project 1 Title](/sample_page)
+[Share of population that cannot afford a healthy diet](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Calorie supply by food group](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Caloriesupplybyfoodgroup/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
