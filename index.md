@@ -5,10 +5,12 @@
 ### Selected projects in data science, visualization and analytics
 
 [Share of population that cannot afford a healthy diet](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Shareofpopulationthatcannotaffordahealthydiet_17214254941400/Dashboard1)
+<br> <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Calorie supply by food group](https://public.tableau.com/app/profile/sharyu.deshmukh/viz/Caloriesupplybyfoodgroup/Dashboard1)
+<br> <br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
