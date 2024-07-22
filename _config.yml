@@ -1,10 +1,13 @@
 title: Sharyu Deshmukh # your name (or website title) here
 logo: "/images/IMG_1080.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   Experienced data analytics professional with an inclination and skillset in data management and preprocessing, data cleaning and wrangling, statistical modeling and communicating results through visualizations.
   <br><br>
-  <a href="https://www.linkedin.com/in/sharyu02deshmukh/">View My LinkedIn Profile</a> 
   
+  <a href="https://www.linkedin.com/in/sharyu02deshmukh/">View My LinkedIn Profile</a> 
+  <br><br>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
